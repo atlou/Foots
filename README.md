@@ -4,4 +4,4 @@
 
 Foots is a feet-inch calculator app for iOS.
 
-You can get it on the [App Store](https://apps.apple.com/ca/app/foots-feet-inches-calculator/id6476119629).
+You can purchase it on the [App Store](https://apps.apple.com/ca/app/foots-feet-inches-calculator/id6476119629).
